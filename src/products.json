@@ -1,0 +1,66 @@
+ [{
+            "id": 1,
+            "title": "Lenovo Core i5 9th Gen ",
+            "price": 49990.00,
+            "image": "./images/2.jpg",
+            "count": 1
+        },
+        {
+            "id": 2,
+            "title": "Asus Pentium Quad Core ",
+            "price": 29990.00,
+            "image": "./images/2.jpg",
+            "count": 1
+        },
+        {
+            "id": 3,
+            "title": "Lenovo KGIN Ideapad S145 ",
+            "price": 28999.00,
+            "image": "./images/3.jpg",
+            "count": 1
+        },
+        {
+            "id": 4,
+            "title": "ASUS Chromebooks Celeron Dual Core ",
+            "price": 17999.00,
+            "image": "./images/4.jpg",
+            "count": 1
+        },
+        {
+            "id": 5,
+            "title": "Nokia Purebook X14 Core I5 10th Gen ",
+            "price": 57990.00,
+            "image": "./images/5.jpg",
+            "count": 1
+
+        },
+        {
+            "id": 6,
+            "title": "Asus Zenbook UX425EA-BM501TS ",
+            "price": 72990.00,
+            "image": "./images/6.jpg",
+            "count": 1
+
+        },
+        {
+            "id": 7,
+            "title": "ASUS LAPTOP ",
+            "price": 22990.00,
+            "image": "./images/7.jpg",
+            "count": 1
+        },
+        {
+            "id": 8,
+            "title": "HP 15s-gr0006au ",
+            "price": 32490.00,
+            "image": "./images/8.jpg",
+            "count": 1
+        },
+        {
+            "id": 9,
+            "title": "Acer A315 Aspire 3 ",
+            "price": 29499.00,
+            "image": "./images/9.jpg",
+            "count": 1
+        }
+    ]
